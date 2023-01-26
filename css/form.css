@@ -1,0 +1,38 @@
+body{
+  background-color: grey;
+  font-family: Chilanka;
+  border-collapse: collapse;
+  padding: 20px;
+  text-align: center;
+
+
+}
+h2 {
+  background-color: #8ab4f8;
+  font-size: 80px;
+  text-align: center;
+  font-family: Arial;
+}
+label{
+  color: pink;
+  padding: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+input{
+  padding: 1px;
+  color: black;
+  background-color: #8ab4f8;
+  font-size: 18px;
+}
+#Password{
+  background-color: lightblue;
+  font-family: Arial;
+  font-size: 30px;
+}
+#level\ of\ education{
+  font-size: 30px;
+  background-color: #b3d4fc;
+  font-family: "DejaVu Sans";
+}
+

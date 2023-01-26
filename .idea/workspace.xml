@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c7667d7-408d-44b3-ba9e-6db7e87327b0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KBBNMOj2BBqNFXMn56BuKMnS16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/SIR GOVERNOR/css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c7667d7-408d-44b3-ba9e-6db7e87327b0" name="Changes" comment="" />
+      <created>1673438060289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673438060289</updated>
+      <workItem from="1673438065878" duration="172000" />
+      <workItem from="1673438250246" duration="6000" />
+      <workItem from="1673438316611" duration="2008000" />
+      <workItem from="1673512441484" duration="62000" />
+      <workItem from="1673512517767" duration="19000" />
+      <workItem from="1673512550361" duration="105000" />
+      <workItem from="1673521397782" duration="49000" />
+      <workItem from="1673521743905" duration="13213000" />
+      <workItem from="1673535278281" duration="9000" />
+      <workItem from="1673596389488" duration="6000" />
+      <workItem from="1673607233905" duration="9428000" />
+      <workItem from="1673617176624" duration="4077000" />
+      <workItem from="1673856876094" duration="7000" />
+      <workItem from="1673867136931" duration="7182000" />
+      <workItem from="1673874596240" duration="5746000" />
+      <workItem from="1673941765430" duration="19000" />
+      <workItem from="1673954450698" duration="10408000" />
+      <workItem from="1673965452851" duration="607000" />
+      <workItem from="1674028660360" duration="10000" />
+      <workItem from="1674040481196" duration="9128000" />
+      <workItem from="1674051582892" duration="1000" />
+      <workItem from="1674051810806" duration="6000" />
+      <workItem from="1674051842259" duration="10000" />
+      <workItem from="1674126438440" duration="234000" />
+      <workItem from="1674127014998" duration="9496000" />
+      <workItem from="1674137343454" duration="72000" />
+      <workItem from="1674212149767" duration="137000" />
+      <workItem from="1674212537056" duration="45000" />
+      <workItem from="1674212600614" duration="6668000" />
+      <workItem from="1674223368685" duration="61000" />
+      <workItem from="1674471275421" duration="7779000" />
+      <workItem from="1674558732547" duration="9382000" />
+      <workItem from="1674568793982" duration="31000" />
+      <workItem from="1674644705485" duration="4808000" />
+      <workItem from="1674656806263" duration="5000" />
+      <workItem from="1674731078473" duration="2907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

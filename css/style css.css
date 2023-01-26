@@ -1,0 +1,75 @@
+p{
+font-size: small;
+font-family: Chandas;
+background-color:grey;
+color: #0c0c0c;
+
+}
+h1{
+font-family: Dialog;
+font-size: large;
+color: black;
+  background-color:pink;
+
+}
+button{
+  float: right;
+
+}
+body{
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+table{
+border-collapse:collapse;
+  color: #27275c;
+  size: A3;
+  solid-color: #27275c;
+  border: 0.1px solid black;
+  float: left;
+  width: 100%;
+
+
+}
+th{font-family: Laksaman;
+  font-size: 20px;
+  color: #0c0c0c;
+  text-align: center;
+  border-collapse:collapse;
+  border: 0.1px solid;
+  background-color: lightblue;
+  padding: 0.1px;
+
+}
+td{font-size: 15px;
+  font-family: "DejaVu Sans";
+  text-align: left;
+  background-color: pink;
+  text-decoration-color: #27275c;
+  child-align: revert;
+  border-color: #27275c;
+  border: 0.1px solid ;
+  border-collapse: separate;
+}
+ul{
+  padding: 10px;
+  float: left;
+  list-style-type: none;
+
+}
+
+  li,a{
+float: left;
+    padding: 20px;
+  }
+  ul{
+    list-style-type: none;
+
+  }
+
+
+
+
+

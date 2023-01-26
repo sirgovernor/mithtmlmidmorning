@@ -1,0 +1,42 @@
+li{
+  padding: 20px;
+  list-style-type: none;
+  float: left;
+}
+footer{
+  background-color: black;
+}
+table{
+  padding: 90px;
+  border-collapse: collapse;
+  color: white;
+  solid-color: #8ab4f8;
+  float: left;
+  width: 100%;
+  ;
+}
+th{ font-size: 28px;
+  font-family: Vemana2000;
+  text-align: left;
+  border-collapse:separate;
+  border-color: black;
+  solid-color: black ;
+  color: #8ab4f8;
+}
+td{
+  font-family: Chilanka;
+  font-size: 20px;
+  padding: 0.1px;
+  border: black;
+  border-collapse: collapse;
+}
+table, th, td{
+  border:1px solid black;
+  border-collapse: collapse;
+  background-color: black;
+}
+h1 {
+  color: black;
+  font-family: Chilanka;
+  text-underline: #8ab4f8;
+}
